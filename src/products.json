@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Labrador Retreiver",
+    "price": 800,
+    "description": "Friendly, active, and outgoing.",
+    "category": "medium dog",
+    "image": "src/Images/Labrador.jpg",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Golden Retreiver",
+    "price": 1000,
+    "description": "Intelligent, friendly, and devoted.",
+    "category": "large dog",
+    "image": "src/Images/Golden_Retriever.jpg",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Bernese Mountain Dog",
+    "price": 1500,
+    "description": "Gentle, loyal, and affectionate.",
+    "category": "extra large dog",
+    "image": "src/Images/Bernese_Mountain_Dog.jpg",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Boxer",
+    "price": 900,
+    "description": "Playful, energetic, and loyal.",
+    "category": "medium dog",
+    "image": "src/Images/Boxer.jpg",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "Dalmation",
+    "price": 1500,
+    "description": "Lively, friendly, and outgoing.",
+    "category": "medium dog",
+    "image": "src/Images/Dalmatian.jpg",
+    "rating": { "rate": 4.6, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Doberman",
+    "price": 2000,
+    "description": "Alert, fearless, and loyal.",
+    "category": "large dog",
+    "image": "src/Images/Doberman.jpg",
+    "rating": { "rate": 3.9, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "Poodle",
+    "price": 1300,
+    "description": "Smart, active, and elegant.",
+    "category": "medium dog",
+    "image": "../Poodle.jpg",
+    "rating": { "rate": 3, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Weiner Dog",
+    "price": 1000,
+    "description": "Friendly, curious, and courageous.",
+    "category": "small dog",
+    "image": "src/Images/Weiner_Dog.jpg",
+    "rating": { "rate": 1.9, "count": 100 }
+  }
+]
+
+
+
